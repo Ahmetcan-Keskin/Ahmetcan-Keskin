@@ -36,7 +36,18 @@ An interactive sales analysis dashboard developed with Power BI.
 🔗 Project:
 https://github.com/Ahmetcan-Keskin/powerbi-sales-dashboard
 
----
+
+
+**NVIDIA Financial Performance Dashboard | Power BI, DAX, Financial Analysis**
+
+* Developed an interactive financial performance dashboard for NVIDIA using Power BI and DAX.
+* Designed a structured data model using fact and dimension tables to analyze multi-year financial statements.
+* Created KPI dashboards covering revenue, net income, profitability metrics, balance sheet analysis, and financial ratios.
+* Built DAX measures for ROE, ROA, profit margins, debt-to-equity ratio, and current ratio analysis.
+* Designed executive-level dashboards with interactive year filtering and professional financial visualization.
+* Analyzed NVIDIA’s financial performance trends through revenue growth, profitability, and financial health indicators.
+🔗 Project:
+https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard
 
 ## 🎯 Currently Learning
 
