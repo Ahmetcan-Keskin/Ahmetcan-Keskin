@@ -46,6 +46,8 @@ https://github.com/Ahmetcan-Keskin/powerbi-sales-dashboard
 * Built DAX measures for ROE, ROA, profit margins, debt-to-equity ratio, and current ratio analysis.
 * Designed executive-level dashboards with interactive year filtering and professional financial visualization.
 * Analyzed NVIDIA’s financial performance trends through revenue growth, profitability, and financial health indicators.
+
+
 🔗 Project:
 https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard
 
