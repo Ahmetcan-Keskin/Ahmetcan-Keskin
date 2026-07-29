@@ -53,6 +53,8 @@ https://github.com/Ahmetcan-Keskin/Amazon-ECommerce-Analytics-Dashboard
 
 
 
+---
+
 
 
 **NVIDIA Financial Performance Dashboard | Power BI, DAX, Financial Analysis**
@@ -67,6 +69,10 @@ https://github.com/Ahmetcan-Keskin/Amazon-ECommerce-Analytics-Dashboard
 
 🔗 Project:
 https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard
+
+
+---
+
 
 
 
@@ -85,6 +91,10 @@ An interactive sales analysis dashboard developed with Power BI.
 
 🔗 Project:
 https://github.com/Ahmetcan-Keskin/powerbi-sales-dashboard
+
+---
+
+
 
 
 
