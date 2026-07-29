@@ -21,6 +21,29 @@ I create interactive dashboards and data-driven solutions using Power BI.
 
 ## 📊 Power BI Projects
 
+**Amazon E-Commerce Analytics Dashboard | Power BI**
+
+An interactive E-Commerce Analytics Dashboard developed using Microsoft Power BI to analyze Amazon sales data and generate business insights.
+
+The project includes:
+
+* Sales performance analysis
+* Product and category insights
+* Customer behavior analysis
+* Order and payment analytics
+* Business performance tracking
+
+Built using:
+
+* Power BI
+* Power Query
+* DAX
+* Star Schema Data Modeling
+
+Created data models, calculated KPIs, and designed interactive dashboards to support data-driven decision making.
+🔗 Project:
+https://github.com/Ahmetcan-Keskin/Amazon-ECommerce-Analytics-Dashboard
+
 ### Sales Dashboard
 
 An interactive sales analysis dashboard developed with Power BI.
