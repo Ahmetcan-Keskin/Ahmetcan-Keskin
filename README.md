@@ -17,9 +17,13 @@ I create interactive dashboards and data-driven solutions using Power BI.
 - Data Visualization
 - Business Analysis
 
+
+
 ---
 
 ## 📊 Power BI Projects
+
+
 
 **Amazon E-Commerce Analytics Dashboard | Power BI**
 
@@ -48,6 +52,9 @@ https://github.com/Ahmetcan-Keskin/Amazon-ECommerce-Analytics-Dashboard
 
 
 
+
+
+
 **NVIDIA Financial Performance Dashboard | Power BI, DAX, Financial Analysis**
 
 * Developed an interactive financial performance dashboard for NVIDIA using Power BI and DAX.
@@ -61,7 +68,6 @@ https://github.com/Ahmetcan-Keskin/Amazon-ECommerce-Analytics-Dashboard
 🔗 Project:
 https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard
 
-## 🎯 Currently Learning
 
 
 
@@ -79,6 +85,12 @@ An interactive sales analysis dashboard developed with Power BI.
 
 🔗 Project:
 https://github.com/Ahmetcan-Keskin/powerbi-sales-dashboard
+
+
+
+
+## 🎯 Currently Learning
+
 - SQL
 - Advanced DAX
 - Data Modeling
