@@ -41,8 +41,10 @@ Built using:
 * Star Schema Data Modeling
 
 Created data models, calculated KPIs, and designed interactive dashboards to support data-driven decision making.
+
 🔗 Project:
 https://github.com/Ahmetcan-Keskin/Amazon-ECommerce-Analytics-Dashboard
+
 
 ### Sales Dashboard
 
