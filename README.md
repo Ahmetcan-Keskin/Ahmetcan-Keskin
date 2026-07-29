@@ -46,21 +46,6 @@ Created data models, calculated KPIs, and designed interactive dashboards to sup
 https://github.com/Ahmetcan-Keskin/Amazon-ECommerce-Analytics-Dashboard
 
 
-### Sales Dashboard
-
-An interactive sales analysis dashboard developed with Power BI.
-
-**Features:**
-- Total Sales Analysis
-- Profit Analysis
-- Sales Trend Analysis
-- Top Performing States
-- Category Analysis
-- Interactive Filters
-
-🔗 Project:
-https://github.com/Ahmetcan-Keskin/powerbi-sales-dashboard
-
 
 
 **NVIDIA Financial Performance Dashboard | Power BI, DAX, Financial Analysis**
@@ -78,6 +63,22 @@ https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard
 
 ## 🎯 Currently Learning
 
+
+
+### Sales Dashboard
+
+An interactive sales analysis dashboard developed with Power BI.
+
+**Features:**
+- Total Sales Analysis
+- Profit Analysis
+- Sales Trend Analysis
+- Top Performing States
+- Category Analysis
+- Interactive Filters
+
+🔗 Project:
+https://github.com/Ahmetcan-Keskin/powerbi-sales-dashboard
 - SQL
 - Advanced DAX
 - Data Modeling
